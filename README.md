@@ -1,6 +1,6 @@
 # Wordle
 
-*This is simply for my own amuzement and for practice playing "Wordle"*
+*This is simply for my own amusement and for practice playing "Wordle"*
 
 **The real game can be found here: https://www.powerlanguage.co.uk/wordle/**
 
