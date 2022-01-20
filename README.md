@@ -18,3 +18,7 @@ To play, navigate to the directory in the command line and enter ```python3 word
 - The default secret word length is 5 characters
 - There is an optional secret-word-length argument that can be passed (e.g. ```python3 wordle.py 6``` for 6-letter secret words)
 - You always get n+1 guesses where n is the number of letters in the secret word
+
+### Known Problems
+
+This currently does not keep track of and display the letter that you have guessed. You have to do that yourself ¯\\\_(ツ)_/¯
