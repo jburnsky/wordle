@@ -4,7 +4,7 @@
 
 **The real game can be found here: https://www.powerlanguage.co.uk/wordle/**
 
-## create_dict.py
+## create_dictionary.py
 
 **The word list is pulled from [SUBTLEX-US](http://www.lexique.org/?page_id=241)**
 
